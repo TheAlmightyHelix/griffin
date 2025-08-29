@@ -1,3 +1,5 @@
+<img width="449" height="121" alt="image" src="https://github.com/user-attachments/assets/58865613-f0b8-40fe-bc34-de4dcd9a73fe" />
+
 ## Griffin - private payroll solution for enterprises
 Griffin is a payroll platfrom that leverages decentralized private payment nextwork.
 
